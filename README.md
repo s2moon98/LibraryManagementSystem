@@ -1,8 +1,19 @@
-# Project Title / Library Management System📚
 
-도서관 관리자가 책들의 재고 상태를 확인하고 도서관 이용자의 책 대출 및 반납을 하기 위한 c 프로그램입니다.
+<br><br>
 
-## function
+<div align="center">
+📚 Library Management System
+📚 도서관 관리 시스템
+</div>
 
-*책 등록, 수정, 삭제
-*책 빌리기, 반납하기
+<br><br>
+
+```
+📌 새로운 책 등록하기
+
+📌 책 삭제하기
+
+📌 책 수정하기
+
+📌 책 대출/반납
+```
